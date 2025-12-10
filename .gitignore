@@ -1,3 +1,7 @@
 
 # Ignore large raw datasets
 data/*.csv
+
+# Ignore full datasets
+data/US_Accidents_March23.csv
+data/*.csv
