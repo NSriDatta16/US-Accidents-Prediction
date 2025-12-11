@@ -1,5 +1,4 @@
 # US Accidents Severity Prediction (2016–2023)
-
 This project predicts **accident severity** using the public **US Accidents Dataset**, containing over 7 million records of traffic incidents across the United States.  
 The goal is to build an **end-to-end machine learning pipeline**, including:
 
