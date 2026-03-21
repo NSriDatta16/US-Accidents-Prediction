@@ -5,7 +5,6 @@ The goal is to build an **end-to-end machine learning pipeline**, including:
 
 
 
-
 - Exploratory Data Analysis (EDA)
 - Missing value treatment
 - Outlier handling
